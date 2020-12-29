@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Enenra</string>
+
+    <string name="Name_minimo_password">Error. Revise Sus Credenciales </string>
+    <string name="Name_minimo_correo">Ingrese Correo </string>
+</resources>
